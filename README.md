@@ -1,0 +1,2 @@
+# Incorrect use of delete operator in C++
+This repository demonstrates a common error in C++ related to the misuse of the `delete` operator. The code attempts to delete a local integer variable, which leads to undefined behavior. The solution shows the correct way to handle memory allocated dynamically.

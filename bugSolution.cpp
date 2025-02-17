@@ -1,0 +1,1 @@
+int main() { int x = 10; //Correct way. No need to use delete here. return 0; }
